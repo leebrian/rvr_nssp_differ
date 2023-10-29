@@ -1,0 +1,1001 @@
+week_end,pathogen,geography,percent_visits
+2023-09-16,COVID,Alaska,2.2
+2023-09-16,RSV,Alabama,0.1
+2023-09-16,Flu,Georgia,0.2
+2023-09-16,Combined,Indiana,1.6
+2023-09-16,Combined,South Carolina,3
+2023-09-16,COVID,Louisiana,2.2
+2023-09-16,Combined,Maryland,2.1
+2023-09-16,Flu,Colorado,0.1
+2023-09-16,Combined,Michigan,2
+2023-09-16,COVID,Pennsylvania,1.5
+2023-09-16,RSV,Georgia,0.2
+2023-09-16,RSV,Hawaii,0.1
+2023-09-16,Combined,Hawaii,4.8
+2023-09-16,RSV,Ohio,0
+2023-09-16,Flu,Maine,0
+2023-09-16,COVID,Indiana,1.5
+2023-09-16,COVID,New Jersey,1.7
+2023-09-16,COVID,Montana,1.9
+2023-09-16,Combined,Arkansas,2.2
+2023-09-16,Flu,California,0.1
+2023-09-16,Combined,Idaho,2.1
+2023-09-16,Combined,Minnesota,2.1
+2023-09-16,Flu,Arkansas,0.2
+2023-09-16,COVID,Ohio,1.9
+2023-09-16,Flu,Connecticut,0.1
+2023-09-16,Combined,Louisiana,2.6
+2023-09-16,Combined,Pennsylvania,1.6
+2023-09-16,COVID,Iowa,2.3
+2023-09-16,RSV,Utah,0
+2023-09-16,Flu,Florida,0.8
+2023-09-16,COVID,Illinois,1.7
+2023-09-16,Combined,New Jersey,1.9
+2023-09-16,RSV,Indiana,0.1
+2023-09-16,COVID,Arizona,1.4
+2023-09-16,Flu,District of Columbia,0.1
+2023-09-16,COVID,Connecticut,2.1
+2023-09-16,COVID,United States,1.9
+2023-09-16,RSV,New Jersey,0
+2023-09-16,COVID,Idaho,2
+2023-09-16,RSV,Rhode Island,0
+2023-09-16,Flu,Delaware,0
+2023-09-16,COVID,North Carolina,2.9
+2023-09-16,COVID,Colorado,1.6
+2023-09-16,Combined,Illinois,1.8
+2023-09-16,Combined,Tennessee,2
+2023-09-16,Flu,Illinois,0.1
+2023-09-16,Combined,Delaware,2.1
+2023-09-16,COVID,Massachusetts,1.7
+2023-09-16,Combined,District of Columbia,2.1
+2023-09-16,Flu,Vermont,0
+2023-09-16,RSV,Texas,0.1
+2023-09-16,Flu,Louisiana,0.3
+2023-09-16,Combined,Ohio,2
+2023-09-16,RSV,District of Columbia,0.2
+2023-09-16,Flu,Idaho,0.1
+2023-09-16,RSV,Illinois,0
+2023-09-16,Combined,Virginia,2.6
+2023-09-16,COVID,Tennessee,1.6
+2023-09-16,COVID,Michigan,1.9
+2023-09-16,Combined,West Virginia,2.2
+2023-09-16,Combined,Wyoming,1.7
+2023-09-16,RSV,New Mexico,0
+2023-09-16,COVID,South Carolina,2.6
+2023-09-16,COVID,Texas,2.2
+2023-09-16,COVID,Minnesota,2
+2023-09-16,RSV,Nebraska,0
+2023-09-16,COVID,North Dakota,1.5
+2023-09-16,Combined,Vermont,1.6
+2023-09-16,COVID,West Virginia,2.1
+2023-09-16,Combined,Utah,2
+2023-09-16,Combined,Montana,2
+2023-09-16,Combined,Oklahoma,1.9
+2023-09-16,RSV,North Dakota,0
+2023-09-16,Flu,Arizona,0.1
+2023-09-16,Flu,Maryland,0.1
+2023-09-16,COVID,Maryland,2
+2023-09-16,Flu,Wyoming,0
+2023-09-16,RSV,Louisiana,0.1
+2023-09-16,COVID,Mississippi,1.6
+2023-09-16,COVID,Virginia,2.3
+2023-09-16,Combined,United States,2.2
+2023-09-16,COVID,Rhode Island,1.4
+2023-09-16,Combined,Iowa,2.6
+2023-09-16,RSV,North Carolina,0
+2023-09-16,COVID,Vermont,1.6
+2023-09-16,RSV,Arizona,0
+2023-09-16,Combined,Kansas,1.7
+2023-09-16,COVID,Nevada,1.5
+2023-09-16,COVID,Alabama,2.1
+2023-09-16,COVID,Wisconsin,1.4
+2023-09-16,COVID,Oregon,3.1
+2023-09-16,RSV,Colorado,0
+2023-09-16,RSV,Nevada,0
+2023-09-16,COVID,Florida,2.2
+2023-09-16,RSV,New York,0
+2023-09-16,Flu,Alaska,0.6
+2023-09-16,Combined,Rhode Island,1.5
+2023-09-16,COVID,Kentucky,2.1
+2023-09-16,RSV,Idaho,0
+2023-09-16,COVID,Oklahoma,1.8
+2023-09-16,Flu,Alabama,0.3
+2023-09-16,Combined,Kentucky,2.4
+2023-09-16,COVID,Nebraska,1
+2023-09-16,COVID,Utah,1.9
+2023-09-16,COVID,Kansas,1.7
+2023-09-16,RSV,Pennsylvania,0
+2023-09-16,COVID,Wyoming,1.7
+2023-09-16,Combined,Florida,3.3
+2023-09-16,Combined,Mississippi,2.1
+2023-09-16,RSV,Delaware,0.1
+2023-09-16,Flu,Montana,0.1
+2023-09-16,Combined,North Dakota,1.6
+2023-09-16,RSV,United States,0.1
+2023-09-16,RSV,Vermont,0
+2023-09-16,COVID,California,1.8
+2023-09-16,Flu,Mississippi,0.3
+2023-09-16,COVID,Arkansas,2
+2023-09-16,Flu,Virginia,0.2
+2023-09-16,Flu,Minnesota,0.1
+2023-09-16,Combined,New Mexico,1.8
+2023-09-16,Combined,Alaska,2.8
+2023-09-16,Flu,New Jersey,0.1
+2023-09-16,RSV,Florida,0.3
+2023-09-16,RSV,Alaska,0
+2023-09-16,Flu,Ohio,0.1
+2023-09-16,Combined,Oregon,3.2
+2023-09-16,RSV,Massachusetts,0.1
+2023-09-16,RSV,Wisconsin,0
+2023-09-16,COVID,Delaware,2
+2023-09-16,Flu,Nevada,0.2
+2023-09-16,Flu,Wisconsin,0
+2023-09-16,Combined,Massachusetts,1.9
+2023-09-16,Flu,Nebraska,0
+2023-09-16,RSV,Montana,0
+2023-09-16,Combined,North Carolina,3.5
+2023-09-16,Combined,Alabama,2.5
+2023-09-16,Flu,New Mexico,0.2
+2023-09-16,Flu,North Dakota,0
+2023-09-16,Combined,New York,1.8
+2023-09-16,RSV,Oklahoma,0
+2023-09-16,RSV,Wyoming,0
+2023-09-16,Combined,Connecticut,2.3
+2023-09-16,Flu,North Carolina,0.6
+2023-09-16,Flu,South Carolina,0.4
+2023-09-16,Flu,New York,0.1
+2023-09-16,Combined,Georgia,1.6
+2023-09-16,Flu,Utah,0.1
+2023-09-16,Flu,Pennsylvania,0.1
+2023-09-16,RSV,Maryland,0.1
+2023-09-16,Combined,Colorado,1.6
+2023-09-16,RSV,Arkansas,0
+2023-09-16,RSV,Connecticut,0
+2023-09-16,Flu,Oregon,0.1
+2023-09-16,Combined,Maine,1.3
+2023-09-16,Flu,Rhode Island,0.1
+2023-09-16,Flu,Texas,0.4
+2023-09-16,RSV,Michigan,0
+2023-09-16,Combined,California,1.9
+2023-09-16,Flu,Tennessee,0.3
+2023-09-16,Flu,Michigan,0.1
+2023-09-16,Flu,Kentucky,0.2
+2023-09-16,COVID,District of Columbia,1.9
+2023-09-16,RSV,Virginia,0.1
+2023-09-16,Combined,Texas,2.7
+2023-09-16,RSV,Mississippi,0.2
+2023-09-16,Flu,United States,0.2
+2023-09-16,RSV,Oregon,0
+2023-09-16,RSV,Maine,0
+2023-09-16,COVID,Georgia,1.2
+2023-09-16,RSV,Kentucky,0.1
+2023-09-16,Flu,Oklahoma,0.1
+2023-09-16,COVID,New York,1.7
+2023-09-16,COVID,New Mexico,1.7
+2023-09-16,Combined,Arizona,1.6
+2023-09-16,RSV,Iowa,0.1
+2023-09-16,RSV,Minnesota,0
+2023-09-16,Combined,Nevada,1.7
+2023-09-16,RSV,California,0
+2023-09-16,Flu,Hawaii,1.6
+2023-09-16,Flu,Indiana,0.1
+2023-09-16,RSV,Kansas,0
+2023-09-16,Combined,Wisconsin,1.4
+2023-09-16,Flu,Massachusetts,0.1
+2023-09-16,COVID,Maine,1.3
+2023-09-16,RSV,West Virginia,0
+2023-09-16,RSV,South Carolina,0.1
+2023-09-16,Flu,West Virginia,0.1
+2023-09-16,RSV,Tennessee,0.1
+2023-09-16,COVID,Hawaii,3.2
+2023-09-16,Flu,Iowa,0.2
+2023-09-16,Combined,Nebraska,1
+2023-09-16,Flu,Kansas,0.1
+2023-09-09,Combined,Connecticut,2.5
+2023-09-09,COVID,Kansas,2.4
+2023-09-09,COVID,Arkansas,3.4
+2023-09-09,RSV,Louisiana,0.1
+2023-09-09,RSV,Oklahoma,0
+2023-09-09,RSV,Delaware,0.1
+2023-09-09,RSV,New Jersey,0
+2023-09-09,Combined,Colorado,1.9
+2023-09-09,Combined,Maryland,2.6
+2023-09-09,Combined,California,2.5
+2023-09-09,RSV,Colorado,0
+2023-09-09,Flu,Virginia,0.2
+2023-09-09,Combined,United States,2.7
+2023-09-09,Flu,Vermont,0
+2023-09-09,Flu,Ohio,0.1
+2023-09-09,Flu,Minnesota,0.1
+2023-09-09,Flu,Louisiana,0.3
+2023-09-09,Flu,Montana,0.1
+2023-09-09,Flu,New Jersey,0.1
+2023-09-09,RSV,New Mexico,0
+2023-09-09,COVID,Florida,3.3
+2023-09-09,Combined,Kentucky,2.8
+2023-09-09,Flu,California,0.1
+2023-09-09,Combined,Michigan,2
+2023-09-09,Combined,Minnesota,1.8
+2023-09-09,COVID,Connecticut,2.4
+2023-09-09,Combined,Alabama,3.8
+2023-09-09,Combined,Illinois,2.1
+2023-09-09,Combined,Mississippi,3.1
+2023-09-09,RSV,Mississippi,0.2
+2023-09-09,COVID,Wyoming,2.2
+2023-09-09,COVID,Maine,1.6
+2023-09-09,RSV,New York,0
+2023-09-09,Combined,Idaho,2.2
+2023-09-09,RSV,Massachusetts,0.1
+2023-09-09,RSV,West Virginia,0
+2023-09-09,RSV,North Carolina,0.1
+2023-09-09,Flu,Arizona,0.1
+2023-09-09,RSV,Michigan,0
+2023-09-09,RSV,Minnesota,0
+2023-09-09,RSV,Wisconsin,0
+2023-09-09,Combined,Oklahoma,1.7
+2023-09-09,Combined,Maine,1.6
+2023-09-09,COVID,Oregon,2.7
+2023-09-09,Combined,Ohio,2.4
+2023-09-09,RSV,Texas,0.1
+2023-09-09,RSV,Rhode Island,0.1
+2023-09-09,RSV,Pennsylvania,0
+2023-09-09,RSV,Kentucky,0.1
+2023-09-09,Combined,Nevada,2.1
+2023-09-09,RSV,California,0
+2023-09-09,COVID,Alaska,2.6
+2023-09-09,Flu,Delaware,0.1
+2023-09-09,Flu,Connecticut,0.1
+2023-09-09,Flu,Georgia,0.2
+2023-09-09,Flu,Florida,0.9
+2023-09-09,Flu,Kentucky,0.1
+2023-09-09,Flu,Maine,0
+2023-09-09,Flu,Iowa,0.1
+2023-09-09,Flu,Kansas,0.1
+2023-09-09,Flu,Indiana,0.1
+2023-09-09,Combined,Arkansas,3.6
+2023-09-09,RSV,Virginia,0.1
+2023-09-09,RSV,Vermont,0
+2023-09-09,RSV,Utah,0
+2023-09-09,RSV,Wyoming,0
+2023-09-09,Combined,Louisiana,3.5
+2023-09-09,Combined,Georgia,1.9
+2023-09-09,Combined,Florida,4.4
+2023-09-09,Combined,Hawaii,5.2
+2023-09-09,COVID,California,2.3
+2023-09-09,Combined,Kansas,2.5
+2023-09-09,COVID,Montana,1.8
+2023-09-09,COVID,Maryland,2.5
+2023-09-09,COVID,United States,2.4
+2023-09-09,COVID,Oklahoma,1.6
+2023-09-09,COVID,Massachusetts,2
+2023-09-09,COVID,Iowa,2.4
+2023-09-09,COVID,Minnesota,1.7
+2023-09-09,COVID,Michigan,1.9
+2023-09-09,COVID,Mississippi,2.6
+2023-09-09,COVID,Ohio,2.2
+2023-09-09,COVID,New Jersey,1.9
+2023-09-09,COVID,Nevada,1.9
+2023-09-09,COVID,Nebraska,1.1
+2023-09-09,COVID,North Dakota,1.4
+2023-09-09,COVID,New Mexico,1.8
+2023-09-09,COVID,North Carolina,3.3
+2023-09-09,COVID,New York,1.8
+2023-09-09,COVID,Kentucky,2.6
+2023-09-09,COVID,Indiana,1.8
+2023-09-09,COVID,Hawaii,3.9
+2023-09-09,Combined,Massachusetts,2.2
+2023-09-09,Flu,Massachusetts,0.1
+2023-09-09,COVID,Idaho,2.1
+2023-09-09,COVID,South Carolina,3.5
+2023-09-09,COVID,Louisiana,3.1
+2023-09-09,COVID,Illinois,2
+2023-09-09,COVID,Virginia,2.7
+2023-09-09,COVID,Texas,3.2
+2023-09-09,COVID,Vermont,1.9
+2023-09-09,COVID,District of Columbia,2.6
+2023-09-09,COVID,Delaware,1.8
+2023-09-09,Flu,Oklahoma,0.1
+2023-09-09,Flu,New York,0.1
+2023-09-09,Flu,New Mexico,0.2
+2023-09-09,COVID,Pennsylvania,1.7
+2023-09-09,Flu,North Dakota,0
+2023-09-09,Combined,Vermont,1.9
+2023-09-09,Flu,South Carolina,0.3
+2023-09-09,Flu,Rhode Island,0.1
+2023-09-09,Combined,West Virginia,2.7
+2023-09-09,Combined,Utah,2.3
+2023-09-09,Combined,Rhode Island,1.8
+2023-09-09,RSV,Arizona,0
+2023-09-09,Flu,Wisconsin,0
+2023-09-09,Flu,West Virginia,0.1
+2023-09-09,Combined,Oregon,2.8
+2023-09-09,Flu,Wyoming,0.1
+2023-09-09,Combined,Texas,3.6
+2023-09-09,Combined,Wisconsin,1.4
+2023-09-09,Combined,Pennsylvania,1.8
+2023-09-09,RSV,Oregon,0
+2023-09-09,Combined,North Carolina,3.8
+2023-09-09,RSV,Georgia,0.2
+2023-09-09,Combined,New York,1.9
+2023-09-09,RSV,Maine,0
+2023-09-09,RSV,Iowa,0.1
+2023-09-09,RSV,Indiana,0
+2023-09-09,Combined,New Jersey,2
+2023-09-09,Flu,Nebraska,0.1
+2023-09-09,Flu,Oregon,0.1
+2023-09-09,Flu,Mississippi,0.3
+2023-09-09,Flu,Illinois,0.1
+2023-09-09,Flu,Hawaii,1.3
+2023-09-09,Flu,Idaho,0.1
+2023-09-09,RSV,Arkansas,0
+2023-09-09,Flu,Maryland,0.1
+2023-09-09,Flu,Utah,0.2
+2023-09-09,Flu,Arkansas,0.2
+2023-09-09,COVID,Wisconsin,1.3
+2023-09-09,RSV,Alaska,0.1
+2023-09-09,COVID,Utah,2
+2023-09-09,RSV,Idaho,0
+2023-09-09,COVID,West Virginia,2.6
+2023-09-09,Flu,Colorado,0.1
+2023-09-09,RSV,Hawaii,0.1
+2023-09-09,RSV,Illinois,0.1
+2023-09-09,RSV,Nebraska,0
+2023-09-09,RSV,United States,0.1
+2023-09-09,RSV,North Dakota,0.1
+2023-09-09,COVID,Tennessee,2.3
+2023-09-09,RSV,Maryland,0.1
+2023-09-09,RSV,Nevada,0
+2023-09-09,Flu,District of Columbia,0.1
+2023-09-09,RSV,South Carolina,0.1
+2023-09-09,COVID,Arizona,1.8
+2023-09-09,RSV,Montana,0
+2023-09-09,RSV,Ohio,0
+2023-09-09,Flu,North Carolina,0.6
+2023-09-09,Combined,Virginia,2.9
+2023-09-09,Combined,Montana,1.8
+2023-09-09,COVID,Rhode Island,1.7
+2023-09-09,Flu,United States,0.2
+2023-09-09,Flu,Texas,0.4
+2023-09-09,Combined,New Mexico,2
+2023-09-09,Flu,Pennsylvania,0.1
+2023-09-09,Combined,South Carolina,3.9
+2023-09-09,Combined,Tennessee,2.7
+2023-09-09,COVID,Alabama,3.3
+2023-09-09,RSV,Florida,0.3
+2023-09-09,COVID,Colorado,1.8
+2023-09-09,COVID,Georgia,1.5
+2023-09-09,Combined,Nebraska,1.1
+2023-09-09,Flu,Alaska,0.5
+2023-09-09,Combined,Delaware,2
+2023-09-09,RSV,Alabama,0.1
+2023-09-09,Flu,Alabama,0.4
+2023-09-09,Flu,Nevada,0.2
+2023-09-09,Flu,Michigan,0.1
+2023-09-09,Combined,North Dakota,1.5
+2023-09-09,RSV,Connecticut,0
+2023-09-09,RSV,District of Columbia,0.2
+2023-09-09,Combined,Wyoming,2.2
+2023-09-09,Flu,Tennessee,0.3
+2023-09-09,Combined,Indiana,2
+2023-09-09,Combined,District of Columbia,2.9
+2023-09-09,RSV,Tennessee,0.1
+2023-09-09,RSV,Kansas,0
+2023-09-09,Combined,Arizona,1.9
+2023-09-09,Combined,Iowa,2.6
+2023-09-09,Combined,Alaska,3.1
+2023-09-02,COVID,Pennsylvania,1.4
+2023-09-02,RSV,Nevada,0
+2023-09-02,RSV,Mississippi,0.1
+2023-09-02,Combined,Kentucky,2.9
+2023-09-02,COVID,United States,2.4
+2023-09-02,RSV,Louisiana,0
+2023-09-02,Combined,Maine,1.5
+2023-09-02,COVID,Michigan,1.5
+2023-09-02,Combined,Mississippi,3.3
+2023-09-02,Combined,New Jersey,1.6
+2023-09-02,RSV,Maine,0
+2023-09-02,Combined,Maryland,2.3
+2023-09-02,RSV,United States,0.1
+2023-09-02,Combined,Georgia,2.4
+2023-09-02,Flu,Indiana,0.1
+2023-09-02,COVID,Ohio,1.8
+2023-09-02,Flu,Michigan,0.1
+2023-09-02,RSV,Pennsylvania,0
+2023-09-02,RSV,New Mexico,0
+2023-09-02,RSV,Oregon,0
+2023-09-02,COVID,Oregon,2.5
+2023-09-02,RSV,Oklahoma,0
+2023-09-02,RSV,Ohio,0
+2023-09-02,COVID,Kentucky,2.6
+2023-09-02,COVID,Oklahoma,1.7
+2023-09-02,RSV,Florida,0.2
+2023-09-02,RSV,Iowa,0
+2023-09-02,Combined,Alaska,2.7
+2023-09-02,RSV,Montana,0
+2023-09-02,RSV,Minnesota,0
+2023-09-02,Combined,Arizona,1.9
+2023-09-02,RSV,North Dakota,0
+2023-09-02,COVID,New Jersey,1.5
+2023-09-02,Combined,Wisconsin,1.3
+2023-09-02,Combined,Alabama,4.7
+2023-09-02,Combined,Arkansas,3.5
+2023-09-02,Combined,Idaho,1.9
+2023-09-02,COVID,Illinois,2
+2023-09-02,RSV,Virginia,0.1
+2023-09-02,Combined,Nevada,2
+2023-09-02,Combined,Kansas,2
+2023-09-02,Combined,Oregon,2.6
+2023-09-02,Combined,Tennessee,3.2
+2023-09-02,Combined,New Mexico,2.2
+2023-09-02,Flu,Montana,0
+2023-09-02,COVID,Arkansas,3.4
+2023-09-02,Combined,District of Columbia,2.4
+2023-09-02,COVID,Montana,1.7
+2023-09-02,Combined,Pennsylvania,1.4
+2023-09-02,Combined,North Dakota,1.1
+2023-09-02,Combined,North Carolina,3.5
+2023-09-02,COVID,Nebraska,1.1
+2023-09-02,Flu,Connecticut,0.1
+2023-09-02,Flu,Minnesota,0.1
+2023-09-02,Combined,Wyoming,1.8
+2023-09-02,RSV,Kentucky,0.1
+2023-09-02,RSV,Kansas,0
+2023-09-02,Flu,North Carolina,0.5
+2023-09-02,RSV,South Carolina,0.1
+2023-09-02,Flu,Wyoming,0.1
+2023-09-02,RSV,Alabama,0.1
+2023-09-02,RSV,Tennessee,0.1
+2023-09-02,Flu,Massachusetts,0.1
+2023-09-02,COVID,Iowa,2.4
+2023-09-02,RSV,Alaska,0
+2023-09-02,Flu,Illinois,0.1
+2023-09-02,Flu,Delaware,0
+2023-09-02,RSV,Michigan,0
+2023-09-02,COVID,West Virginia,2.4
+2023-09-02,COVID,Wisconsin,1.2
+2023-09-02,Flu,West Virginia,0.1
+2023-09-02,Combined,Virginia,2.8
+2023-09-02,COVID,Arizona,1.8
+2023-09-02,COVID,Maine,1.4
+2023-09-02,COVID,Alabama,4.3
+2023-09-02,COVID,District of Columbia,2.2
+2023-09-02,Combined,Vermont,1.6
+2023-09-02,COVID,Texas,3.7
+2023-09-02,COVID,Florida,4.2
+2023-09-02,COVID,Maryland,2.2
+2023-09-02,Combined,Ohio,1.9
+2023-09-02,Flu,Iowa,0.3
+2023-09-02,Combined,South Carolina,4.4
+2023-09-02,COVID,Colorado,1.6
+2023-09-02,COVID,Delaware,1.4
+2023-09-02,COVID,Connecticut,2
+2023-09-02,COVID,New Mexico,2.1
+2023-09-02,Combined,Indiana,2
+2023-09-02,Combined,New York,1.6
+2023-09-02,Combined,Rhode Island,1.5
+2023-09-02,Flu,Texas,0.4
+2023-09-02,COVID,Mississippi,2.9
+2023-09-02,COVID,California,2.3
+2023-09-02,Flu,Maryland,0.1
+2023-09-02,COVID,Nevada,1.8
+2023-09-02,RSV,Connecticut,0
+2023-09-02,RSV,Rhode Island,0
+2023-09-02,COVID,North Dakota,1.1
+2023-09-02,Flu,Pennsylvania,0.1
+2023-09-02,Flu,Hawaii,1.1
+2023-09-02,Flu,Nevada,0.2
+2023-09-02,Flu,Alaska,0.4
+2023-09-02,Flu,New York,0.1
+2023-09-02,RSV,West Virginia,0
+2023-09-02,Flu,New Mexico,0.1
+2023-09-02,Combined,Colorado,1.6
+2023-09-02,Combined,California,2.4
+2023-09-02,Flu,Oklahoma,0.1
+2023-09-02,Flu,Ohio,0.1
+2023-09-02,Combined,Hawaii,5
+2023-09-02,Flu,Virginia,0.2
+2023-09-02,Combined,Delaware,1.5
+2023-09-02,Flu,Tennessee,0.3
+2023-09-02,Flu,Vermont,0
+2023-09-02,Combined,Florida,5.2
+2023-09-02,Combined,Illinois,2.1
+2023-09-02,RSV,Nebraska,0
+2023-09-02,Combined,Nebraska,1.1
+2023-09-02,Flu,Georgia,0.3
+2023-09-02,Combined,Utah,1.9
+2023-09-02,Combined,Louisiana,4.1
+2023-09-02,RSV,Colorado,0
+2023-09-02,Flu,Mississippi,0.3
+2023-09-02,Flu,North Dakota,0
+2023-09-02,Combined,Montana,1.7
+2023-09-02,COVID,Utah,1.7
+2023-09-02,RSV,California,0
+2023-09-02,RSV,Arkansas,0
+2023-09-02,Combined,Minnesota,1.6
+2023-09-02,RSV,Arizona,0
+2023-09-02,Combined,Oklahoma,1.8
+2023-09-02,RSV,Maryland,0
+2023-09-02,RSV,Hawaii,0
+2023-09-02,RSV,Georgia,0.1
+2023-09-02,COVID,Massachusetts,1.9
+2023-09-02,Combined,Iowa,2.7
+2023-09-02,COVID,Louisiana,3.8
+2023-09-02,Combined,Connecticut,2.1
+2023-09-02,COVID,Alaska,2.4
+2023-09-02,COVID,Kansas,1.9
+2023-09-02,RSV,Vermont,0
+2023-09-02,RSV,Wisconsin,0
+2023-09-02,COVID,Georgia,2
+2023-09-02,RSV,Indiana,0
+2023-09-02,RSV,Texas,0.1
+2023-09-02,Combined,Michigan,1.6
+2023-09-02,COVID,Idaho,1.8
+2023-09-02,RSV,New York,0
+2023-09-02,Flu,South Carolina,0.3
+2023-09-02,RSV,North Carolina,0
+2023-09-02,COVID,Hawaii,3.9
+2023-09-02,RSV,New Jersey,0
+2023-09-02,COVID,Wyoming,1.7
+2023-09-02,Flu,District of Columbia,0
+2023-09-02,RSV,Massachusetts,0.1
+2023-09-02,RSV,Idaho,0
+2023-09-02,COVID,Vermont,1.6
+2023-09-02,RSV,Wyoming,0
+2023-09-02,Flu,Arkansas,0.1
+2023-09-02,Flu,Wisconsin,0
+2023-09-02,Flu,Florida,0.8
+2023-09-02,Combined,West Virginia,2.5
+2023-09-02,Flu,Utah,0.1
+2023-09-02,Flu,Arizona,0.1
+2023-09-02,Flu,Kentucky,0.2
+2023-09-02,COVID,Tennessee,2.8
+2023-09-02,Combined,Texas,4.2
+2023-09-02,Flu,Louisiana,0.3
+2023-09-02,Flu,Maine,0
+2023-09-02,COVID,Rhode Island,1.4
+2023-09-02,COVID,Indiana,1.9
+2023-09-02,Flu,Oregon,0.1
+2023-09-02,COVID,Minnesota,1.5
+2023-09-02,Flu,Colorado,0.1
+2023-09-02,RSV,Illinois,0
+2023-09-02,COVID,North Carolina,3.1
+2023-09-02,Flu,Rhode Island,0.1
+2023-09-02,COVID,New York,1.6
+2023-09-02,RSV,Delaware,0
+2023-09-02,Flu,Nebraska,0.1
+2023-09-02,Flu,New Jersey,0.1
+2023-09-02,RSV,Utah,0
+2023-09-02,RSV,District of Columbia,0.2
+2023-09-02,Flu,Kansas,0.1
+2023-09-02,Combined,Massachusetts,2.1
+2023-09-02,Flu,Idaho,0
+2023-09-02,Combined,United States,2.7
+2023-09-02,Flu,United States,0.2
+2023-09-02,Flu,California,0.1
+2023-09-02,Flu,Alabama,0.5
+2023-09-02,COVID,Virginia,2.6
+2023-09-02,COVID,South Carolina,4
+2023-08-26,RSV,Virginia,0
+2023-08-26,RSV,Colorado,0
+2023-08-26,Flu,Alabama,0.4
+2023-08-26,Flu,New Mexico,0.1
+2023-08-26,Combined,Nebraska,1.1
+2023-08-26,Combined,Montana,1.4
+2023-08-26,COVID,North Dakota,0.9
+2023-08-26,RSV,West Virginia,0.1
+2023-08-26,Flu,Texas,0.3
+2023-08-26,COVID,United States,2.4
+2023-08-26,RSV,Wisconsin,0
+2023-08-26,COVID,Delaware,1.2
+2023-08-26,RSV,Hawaii,0.1
+2023-08-26,Combined,Louisiana,4.5
+2023-08-26,RSV,New Jersey,0
+2023-08-26,Combined,Minnesota,1.6
+2023-08-26,Flu,Maine,0
+2023-08-26,Combined,Alaska,2.3
+2023-08-26,RSV,Kentucky,0.1
+2023-08-26,Flu,Massachusetts,0.1
+2023-08-26,Combined,Idaho,1.4
+2023-08-26,RSV,Maryland,0
+2023-08-26,Combined,Indiana,2.1
+2023-08-26,COVID,Iowa,2.2
+2023-08-26,COVID,Maine,1.6
+2023-08-26,RSV,Alabama,0.1
+2023-08-26,COVID,Connecticut,1.7
+2023-08-26,Combined,Mississippi,3.7
+2023-08-26,Flu,California,0.1
+2023-08-26,Flu,Idaho,0.1
+2023-08-26,COVID,Indiana,1.9
+2023-08-26,RSV,Ohio,0
+2023-08-26,RSV,Maine,0
+2023-08-26,Flu,Delaware,0
+2023-08-26,Combined,New York,1.5
+2023-08-26,RSV,Arizona,0
+2023-08-26,Combined,Rhode Island,1.5
+2023-08-26,Flu,Illinois,0.1
+2023-08-26,Flu,Iowa,0.2
+2023-08-26,RSV,Pennsylvania,0
+2023-08-26,Combined,Kansas,1.7
+2023-08-26,Flu,Minnesota,0.1
+2023-08-26,Combined,Virginia,2.6
+2023-08-26,COVID,Alabama,5
+2023-08-26,COVID,New Mexico,2.2
+2023-08-26,Combined,Arizona,1.8
+2023-08-26,Combined,Alabama,5.4
+2023-08-26,Flu,Connecticut,0.1
+2023-08-26,COVID,West Virginia,1.7
+2023-08-26,COVID,Wyoming,1.7
+2023-08-26,RSV,Louisiana,0.1
+2023-08-26,RSV,Kansas,0
+2023-08-26,Flu,United States,0.2
+2023-08-26,Combined,Delaware,1.2
+2023-08-26,Flu,Ohio,0
+2023-08-26,COVID,New Jersey,1.3
+2023-08-26,RSV,Iowa,0.1
+2023-08-26,RSV,United States,0.1
+2023-08-26,Flu,Utah,0.1
+2023-08-26,Combined,Massachusetts,1.8
+2023-08-26,COVID,Minnesota,1.5
+2023-08-26,RSV,New York,0
+2023-08-26,RSV,Georgia,0.1
+2023-08-26,Flu,Montana,0
+2023-08-26,COVID,Michigan,1.3
+2023-08-26,RSV,Arkansas,0
+2023-08-26,RSV,Connecticut,0
+2023-08-26,Combined,West Virginia,1.8
+2023-08-26,Flu,Hawaii,0.9
+2023-08-26,Flu,Michigan,0.1
+2023-08-26,COVID,Nevada,1.9
+2023-08-26,COVID,Florida,4.5
+2023-08-26,RSV,Idaho,0
+2023-08-26,Flu,Wyoming,0
+2023-08-26,COVID,New York,1.4
+2023-08-26,RSV,District of Columbia,0.2
+2023-08-26,RSV,Rhode Island,0
+2023-08-26,Combined,New Jersey,1.4
+2023-08-26,RSV,Wyoming,0
+2023-08-26,COVID,Mississippi,3.3
+2023-08-26,Combined,Vermont,1.4
+2023-08-26,RSV,Alaska,0.1
+2023-08-26,RSV,Florida,0.2
+2023-08-26,RSV,Texas,0.1
+2023-08-26,COVID,Idaho,1.4
+2023-08-26,COVID,South Carolina,3.9
+2023-08-26,Flu,North Carolina,0.4
+2023-08-26,Flu,Rhode Island,0.1
+2023-08-26,COVID,Nebraska,1.1
+2023-08-26,Flu,Kansas,0.1
+2023-08-26,COVID,Oregon,2.4
+2023-08-26,RSV,New Mexico,0
+2023-08-26,COVID,Kansas,1.6
+2023-08-26,COVID,Oklahoma,1.6
+2023-08-26,RSV,Illinois,0
+2023-08-26,Flu,Tennessee,0.3
+2023-08-26,Combined,North Dakota,0.9
+2023-08-26,COVID,Hawaii,4.2
+2023-08-26,Combined,Iowa,2.5
+2023-08-26,Flu,Nevada,0.2
+2023-08-26,Flu,Mississippi,0.4
+2023-08-26,Combined,Oregon,2.4
+2023-08-26,Combined,United States,2.6
+2023-08-26,Combined,Nevada,2.1
+2023-08-26,Combined,California,2.4
+2023-08-26,Flu,South Carolina,0.3
+2023-08-26,COVID,District of Columbia,1.8
+2023-08-26,COVID,California,2.2
+2023-08-26,COVID,Pennsylvania,1.1
+2023-08-26,COVID,Illinois,1.9
+2023-08-26,RSV,California,0
+2023-08-26,COVID,Rhode Island,1.4
+2023-08-26,RSV,Vermont,0
+2023-08-26,RSV,Indiana,0
+2023-08-26,Combined,Georgia,2.9
+2023-08-26,RSV,South Carolina,0.1
+2023-08-26,RSV,Oklahoma,0
+2023-08-26,Combined,Wisconsin,1.1
+2023-08-26,Flu,Nebraska,0
+2023-08-26,Flu,Vermont,0.1
+2023-08-26,Combined,Hawaii,5.2
+2023-08-26,Flu,Oklahoma,0
+2023-08-26,Flu,North Dakota,0.1
+2023-08-26,RSV,North Carolina,0
+2023-08-26,Combined,Arkansas,2.9
+2023-08-26,Combined,Pennsylvania,1.1
+2023-08-26,Combined,New Mexico,2.3
+2023-08-26,Combined,Michigan,1.4
+2023-08-26,Combined,Maine,1.6
+2023-08-26,RSV,Tennessee,0
+2023-08-26,RSV,Utah,0
+2023-08-26,Combined,District of Columbia,2.1
+2023-08-26,COVID,Alaska,2
+2023-08-26,COVID,Ohio,1.4
+2023-08-26,Combined,Connecticut,1.8
+2023-08-26,RSV,Michigan,0
+2023-08-26,Combined,Kentucky,2.6
+2023-08-26,COVID,Colorado,1.4
+2023-08-26,Flu,Arizona,0.1
+2023-08-26,Flu,Georgia,0.2
+2023-08-26,RSV,Montana,0
+2023-08-26,Combined,Florida,5.4
+2023-08-26,Combined,Oklahoma,1.6
+2023-08-26,Combined,Utah,1.4
+2023-08-26,COVID,North Carolina,2.8
+2023-08-26,Combined,Wyoming,1.7
+2023-08-26,Combined,South Carolina,4.2
+2023-08-26,COVID,Texas,3.6
+2023-08-26,Flu,Alaska,0.2
+2023-08-26,Flu,Arkansas,0.2
+2023-08-26,RSV,Oregon,0
+2023-08-26,COVID,Tennessee,3.2
+2023-08-26,Combined,North Carolina,3.2
+2023-08-26,Flu,District of Columbia,0.1
+2023-08-26,COVID,Georgia,2.5
+2023-08-26,COVID,Arizona,1.7
+2023-08-26,Flu,Colorado,0.1
+2023-08-26,COVID,Kentucky,2.4
+2023-08-26,RSV,Nebraska,0
+2023-08-26,COVID,Vermont,1.4
+2023-08-26,RSV,Minnesota,0
+2023-08-26,COVID,Virginia,2.4
+2023-08-26,Flu,Indiana,0.1
+2023-08-26,COVID,Louisiana,4.1
+2023-08-26,RSV,Nevada,0
+2023-08-26,Combined,Illinois,2
+2023-08-26,Flu,Florida,0.8
+2023-08-26,COVID,Wisconsin,1
+2023-08-26,COVID,Massachusetts,1.7
+2023-08-26,Flu,Kentucky,0.2
+2023-08-26,RSV,Mississippi,0.1
+2023-08-26,Flu,West Virginia,0.1
+2023-08-26,COVID,Arkansas,2.6
+2023-08-26,Flu,Pennsylvania,0.1
+2023-08-26,Flu,Wisconsin,0
+2023-08-26,Combined,Maryland,2
+2023-08-26,RSV,Delaware,0
+2023-08-26,RSV,Massachusetts,0
+2023-08-26,RSV,North Dakota,0
+2023-08-26,COVID,Montana,1.4
+2023-08-26,COVID,Maryland,1.9
+2023-08-26,Flu,Virginia,0.2
+2023-08-26,Flu,Maryland,0.1
+2023-08-26,COVID,Utah,1.3
+2023-08-26,Flu,New Jersey,0.1
+2023-08-26,Combined,Texas,4
+2023-08-26,Flu,Louisiana,0.3
+2023-08-26,Combined,Tennessee,3.5
+2023-08-26,Flu,Oregon,0.1
+2023-08-26,Flu,New York,0.1
+2023-08-26,Combined,Colorado,1.5
+2023-08-26,Combined,Ohio,1.5
+2023-08-19,Flu,Arkansas,0.1
+2023-08-19,COVID,Hawaii,4.1
+2023-08-19,COVID,Vermont,1.3
+2023-08-19,Combined,West Virginia,1.4
+2023-08-19,RSV,Arkansas,0
+2023-08-19,Combined,South Carolina,3.4
+2023-08-19,COVID,New York,1.2
+2023-08-19,COVID,Alabama,3.7
+2023-08-19,Combined,Utah,1.3
+2023-08-19,Flu,Montana,0
+2023-08-19,Combined,Virginia,2.1
+2023-08-19,Flu,Ohio,0.1
+2023-08-19,Combined,Mississippi,4
+2023-08-19,Combined,California,2.3
+2023-08-19,COVID,Wyoming,1.4
+2023-08-19,Flu,Georgia,0.2
+2023-08-19,Flu,Arizona,0.1
+2023-08-19,COVID,Maine,1.1
+2023-08-19,Combined,Pennsylvania,1
+2023-08-19,Flu,New York,0.1
+2023-08-19,RSV,Wisconsin,0
+2023-08-19,Combined,Arizona,1.9
+2023-08-19,RSV,North Dakota,0
+2023-08-19,Flu,District of Columbia,0.1
+2023-08-19,COVID,North Dakota,1.1
+2023-08-19,COVID,Georgia,2.3
+2023-08-19,Flu,United States,0.2
+2023-08-19,Combined,Kentucky,1.9
+2023-08-19,COVID,Texas,2.7
+2023-08-19,COVID,Ohio,1.1
+2023-08-19,Combined,Hawaii,5.5
+2023-08-19,COVID,United States,1.9
+2023-08-19,Flu,North Dakota,0
+2023-08-19,COVID,California,2.1
+2023-08-19,Flu,Pennsylvania,0
+2023-08-19,Flu,Oklahoma,0.1
+2023-08-19,COVID,Idaho,1.3
+2023-08-19,RSV,Maryland,0
+2023-08-19,Flu,Iowa,0.2
+2023-08-19,COVID,Wisconsin,0.8
+2023-08-19,COVID,Illinois,1.5
+2023-08-19,Flu,Colorado,0.1
+2023-08-19,COVID,North Carolina,2.3
+2023-08-19,COVID,Maryland,1.5
+2023-08-19,Flu,Mississippi,0.4
+2023-08-19,RSV,Florida,0.2
+2023-08-19,Flu,Massachusetts,0.1
+2023-08-19,COVID,Indiana,1.4
+2023-08-19,Combined,Wisconsin,0.9
+2023-08-19,Flu,Maryland,0.1
+2023-08-19,COVID,Connecticut,1.5
+2023-08-19,Flu,Louisiana,0.2
+2023-08-19,COVID,Iowa,1.8
+2023-08-19,COVID,Oregon,1.9
+2023-08-19,Flu,Nebraska,0
+2023-08-19,Combined,New Jersey,1.3
+2023-08-19,Combined,Rhode Island,0.9
+2023-08-19,RSV,Delaware,0
+2023-08-19,COVID,Kentucky,1.8
+2023-08-19,RSV,Connecticut,0
+2023-08-19,COVID,Alaska,1.6
+2023-08-19,Flu,Kansas,0.1
+2023-08-19,Flu,Minnesota,0.1
+2023-08-19,RSV,Indiana,0
+2023-08-19,Combined,Wyoming,1.5
+2023-08-19,RSV,New Mexico,0
+2023-08-19,RSV,Ohio,0
+2023-08-19,Combined,Vermont,1.3
+2023-08-19,COVID,Montana,1.1
+2023-08-19,Combined,Colorado,1.2
+2023-08-19,Combined,Idaho,1.3
+2023-08-19,Combined,Kansas,1.2
+2023-08-19,Flu,Delaware,0
+2023-08-19,Combined,Nevada,1.9
+2023-08-19,RSV,New Jersey,0
+2023-08-19,RSV,Vermont,0
+2023-08-19,Flu,Rhode Island,0.1
+2023-08-19,RSV,California,0
+2023-08-19,RSV,Mississippi,0.1
+2023-08-19,Combined,Arkansas,2
+2023-08-19,COVID,Nevada,1.8
+2023-08-19,Combined,Maine,1.2
+2023-08-19,RSV,Nevada,0
+2023-08-19,RSV,Oregon,0
+2023-08-19,Flu,Florida,0.6
+2023-08-19,RSV,Utah,0
+2023-08-19,Combined,Indiana,1.5
+2023-08-19,COVID,Nebraska,0.9
+2023-08-19,Flu,Tennessee,0.2
+2023-08-19,COVID,Oklahoma,1.2
+2023-08-19,Combined,Massachusetts,1.7
+2023-08-19,COVID,Arkansas,1.8
+2023-08-19,COVID,Michigan,1
+2023-08-19,COVID,Kansas,1.1
+2023-08-19,COVID,Utah,1.2
+2023-08-19,Flu,North Carolina,0.4
+2023-08-19,Flu,Utah,0.1
+2023-08-19,RSV,Tennessee,0.1
+2023-08-19,Flu,Hawaii,1.4
+2023-08-19,Flu,Wyoming,0.1
+2023-08-19,Flu,Nevada,0.2
+2023-08-19,Flu,Idaho,0
+2023-08-19,COVID,Rhode Island,0.8
+2023-08-19,COVID,Florida,3.7
+2023-08-19,RSV,New York,0
+2023-08-19,RSV,Idaho,0
+2023-08-19,Flu,Indiana,0.1
+2023-08-19,Flu,Illinois,0.1
+2023-08-19,RSV,Rhode Island,0
+2023-08-19,Flu,New Jersey,0.1
+2023-08-19,RSV,Iowa,0
+2023-08-19,RSV,Hawaii,0.1
+2023-08-19,Flu,Maine,0
+2023-08-19,Flu,Virginia,0.1
+2023-08-19,COVID,South Carolina,3.2
+2023-08-19,Flu,Texas,0.3
+2023-08-19,Flu,Kentucky,0.1
+2023-08-19,Combined,North Carolina,2.6
+2023-08-19,Combined,New York,1.2
+2023-08-19,Combined,Minnesota,1.2
+2023-08-19,Flu,Alabama,0.3
+2023-08-19,COVID,Arizona,1.7
+2023-08-19,Combined,Iowa,2
+2023-08-19,Combined,Connecticut,1.5
+2023-08-19,COVID,Louisiana,3.4
+2023-08-19,RSV,Virginia,0
+2023-08-19,RSV,Texas,0.1
+2023-08-19,Combined,Tennessee,2.7
+2023-08-19,Combined,Delaware,1.5
+2023-08-19,RSV,Pennsylvania,0
+2023-08-19,RSV,Minnesota,0
+2023-08-19,Combined,Florida,4.4
+2023-08-19,RSV,Kansas,0
+2023-08-19,RSV,Alabama,0.1
+2023-08-19,Combined,Oklahoma,1.3
+2023-08-19,Combined,Montana,1.2
+2023-08-19,Combined,Illinois,1.6
+2023-08-19,Combined,Alaska,1.9
+2023-08-19,RSV,United States,0
+2023-08-19,RSV,Georgia,0.1
+2023-08-19,COVID,Colorado,1.1
+2023-08-19,Combined,Alabama,4.1
+2023-08-19,RSV,South Carolina,0.1
+2023-08-19,RSV,Alaska,0
+2023-08-19,Combined,New Mexico,2.2
+2023-08-19,Combined,Nebraska,0.9
+2023-08-19,Flu,Alaska,0.2
+2023-08-19,COVID,Minnesota,1.2
+2023-08-19,Flu,West Virginia,0.1
+2023-08-19,Combined,Louisiana,3.7
+2023-08-19,Flu,Wisconsin,0
+2023-08-19,Flu,Oregon,0.1
+2023-08-19,RSV,Kentucky,0.1
+2023-08-19,RSV,Wyoming,0
+2023-08-19,RSV,Maine,0
+2023-08-19,Flu,New Mexico,0.1
+2023-08-19,RSV,Montana,0
+2023-08-19,RSV,Nebraska,0
+2023-08-19,Flu,South Carolina,0.2
+2023-08-19,Flu,California,0.1
+2023-08-19,Flu,Vermont,0
+2023-08-19,Combined,Oregon,2
+2023-08-19,RSV,Massachusetts,0
+2023-08-19,COVID,Virginia,1.9
+2023-08-19,COVID,West Virginia,1.3
+2023-08-19,RSV,North Carolina,0
+2023-08-19,COVID,Tennessee,2.4
+2023-08-19,Combined,Georgia,2.6
+2023-08-19,COVID,Pennsylvania,0.9
+2023-08-19,Combined,Texas,3
+2023-08-19,Combined,Ohio,1.2
+2023-08-19,Combined,Maryland,1.6
+2023-08-19,RSV,Illinois,0
+2023-08-19,RSV,Louisiana,0.1
+2023-08-19,Flu,Michigan,0
+2023-08-19,COVID,Mississippi,3.6
+2023-08-19,COVID,District of Columbia,1.5
+2023-08-19,COVID,Delaware,1.4
+2023-08-19,COVID,New Mexico,2.1
+2023-08-19,RSV,Oklahoma,0
+2023-08-19,Combined,District of Columbia,1.7
+2023-08-19,Combined,Michigan,1
+2023-08-19,Combined,North Dakota,1.1
+2023-08-19,RSV,District of Columbia,0.1
+2023-08-19,Flu,Connecticut,0
+2023-08-19,Combined,United States,2.2
+2023-08-19,COVID,New Jersey,1.2
+2023-08-19,RSV,West Virginia,0
+2023-08-19,RSV,Colorado,0
+2023-08-19,COVID,Massachusetts,1.6
+2023-08-19,RSV,Michigan,0
+2023-08-19,RSV,Arizona,0
+2023-08-12,Combined,Utah,1.1
+2023-08-12,COVID,Iowa,1.4
+2023-08-12,Combined,Vermont,1.4
+2023-08-12,COVID,Idaho,0.9
+2023-08-12,COVID,Pennsylvania,0.8
+2023-08-12,COVID,Ohio,0.8
+2023-08-12,COVID,New Mexico,1.5
+2023-08-12,COVID,Illinois,1.1
+2023-08-12,COVID,Maryland,1.2
+2023-08-12,COVID,Florida,3.3
+2023-08-12,COVID,Kansas,0.7
+2023-08-12,COVID,Georgia,1.7
+2023-08-12,COVID,Louisiana,2.8
+2023-08-12,COVID,District of Columbia,1.2
+2023-08-12,COVID,Maine,0.9
+2023-08-12,COVID,Alaska,1.7
+2023-08-12,COVID,Mississippi,2.7
+2023-08-12,COVID,North Carolina,1.9
+2023-08-12,COVID,Oregon,1.6
+2023-08-12,COVID,Nevada,1.5
+2023-08-12,COVID,Kentucky,1.5
+2023-08-12,COVID,Minnesota,0.9
+2023-08-12,COVID,United States,1.6
+2023-08-12,COVID,Michigan,0.8
+2023-08-12,COVID,Arizona,1.3
+2023-08-12,COVID,Oklahoma,1.1
+2023-08-12,COVID,New Jersey,0.9
+2023-08-12,COVID,Indiana,1.1
+2023-08-12,COVID,Arkansas,1.3
+2023-08-12,COVID,Hawaii,3.8
+2023-08-12,COVID,Delaware,1.1
+2023-08-12,COVID,Nebraska,0.7
+2023-08-12,COVID,New York,1.1
+2023-08-12,COVID,California,1.6
+2023-08-12,COVID,North Dakota,0.7
+2023-08-12,COVID,Colorado,0.9
+2023-08-12,COVID,Alabama,2.7
+2023-08-12,COVID,Connecticut,1.3
+2023-08-12,COVID,Montana,0.9
+2023-08-12,COVID,Massachusetts,1.3
